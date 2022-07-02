@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T05:10:26.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="VHnqzZBHN22xQTiwoea-" type="github"><diagram id="XMUzWGMiCQAyWUoXe1mh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-02T05:32:29.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B9KFFX_5FM3FZMXiO2mm" version="20.0.4" type="github">
+  <diagram id="XMUzWGMiCQAyWUoXe1mh" name="Page-1">
+    <mxGraphModel dx="989" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F9htk7DrZZB5_9Co1lWQ-6" value="user blog" style="swimlane;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=none;fillColor=#97D077;strokeColor=#97D077;gradientColor=none;rounded=0;shadow=0;sketch=0;glass=0;labelBorderColor=none;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1540" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="F9htk7DrZZB5_9Co1lWQ-16" value="&lt;span style=&quot;&quot;&gt;id&amp;nbsp; int PK&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;tên người dùng nvarchar(100)&lt;br&gt;đăng bài (nvarchar(max)&lt;br&gt;xóa bài (int) FK&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F9htk7DrZZB5_9Co1lWQ-6">
+          <mxGeometry x="25" y="15" width="180" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
